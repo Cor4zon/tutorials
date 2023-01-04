@@ -1,4 +1,4 @@
-## what's i learned:
+## what's i learned
 
 1. Outlet
 
@@ -88,3 +88,9 @@ There is one key difference though, it's not a navigation--the URL doesn't chang
 
 
 ## what's i plan to do:
+
+1. repeat all tutorial step by step without looking on hints
+
+2. create similar project with similar features 
+
+3. improve existing project by adding new advanced features 
