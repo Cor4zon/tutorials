@@ -21,9 +21,7 @@ So i will keep my progress in tutorials here.
 
 | Tutorial      | Status |
 | ----------- | ----------- |
-| (React Router)[https://reactrouter.com/en/main/start/tutorial]      | needs repetition       |
-| (Remix(short))[https://remix.run/docs/en/v1/tutorials/blog]   | in plan        |
-| (Remix(long))[https://remix.run/docs/en/v1/tutorials/jokes]   | in plan        |
-| ()[]   | in plan        |
-| ()[]   | in plan        |
-| ()[]   | in plan        |
+| [React Router](https://reactrouter.com/en/main/start/tutorial)      | needs repetition       |
+| [Remix(short)](https://remix.run/docs/en/v1/tutorials/blog)   | in plan        |
+| [Remix(long)](https://remix.run/docs/en/v1/tutorials/jokes)   | in plan        |
+| []()   | in plan        |
