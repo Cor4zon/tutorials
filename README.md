@@ -14,3 +14,16 @@ To maximize your efficency while going through some tutorial you should do these
 3. Add some advanced features to the project created in tutorial
 
 So i will keep my progress in tutorials here.
+
+
+
+# tutorials roadmap
+
+| Tutorial      | Status |
+| ----------- | ----------- |
+| (React Router)[https://reactrouter.com/en/main/start/tutorial]      | needs repetition       |
+| (Remix(short))[https://remix.run/docs/en/v1/tutorials/blog]   | in plan        |
+| (Remix(long))[https://remix.run/docs/en/v1/tutorials/jokes]   | in plan        |
+| ()[]   | in plan        |
+| ()[]   | in plan        |
+| ()[]   | in plan        |
