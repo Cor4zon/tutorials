@@ -4,11 +4,11 @@ import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root, {
   loader as rootLoader,
-  action as createAction,
+  action as rootAction,
 } from "./components/Root";
-import { action as deleteAction } from "./components/destroy";
 import ErrorPage from "./components/ErrorPage";
-import Contact from "./components/Contact";
+import Contact, { loader as contactLoader } from "./components/Contacts";
+import EditContact from "./components/edit";
 
 const router = createBrowserRouter([
   {
@@ -16,11 +16,17 @@ const router = createBrowserRouter([
     element: <Root />,
     errorElement: <ErrorPage />,
     loader: rootLoader,
-    action: createAction,
+    action: rootAction,
     children: [
       {
         path: "contacts/:contactId",
         element: <Contact />,
+        loader: contactLoader,
+      },
+      {
+        path: "contacts/:contactId/edit",
+        element: <EditContact />,
+        loader: contactLoader,
       },
     ],
   },
