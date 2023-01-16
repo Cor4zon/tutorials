@@ -24,4 +24,6 @@ So i will keep my progress in tutorials here.
 | [React Router](https://reactrouter.com/en/main/start/tutorial)      | needs repetition       |
 | [Remix(short)](https://remix.run/docs/en/v1/tutorials/blog)   | in plan        |
 | [Remix(long)](https://remix.run/docs/en/v1/tutorials/jokes)   | in plan        |
+| [Apollo GraphQL](https://apollo-fullstack-tutorial.herokuapp.com/graphql)   | in plan        |
 | []()   | in plan        |
+
